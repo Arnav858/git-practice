@@ -1,0 +1,6 @@
+ID,supplierName,contactPerson,email,phone,city,rating,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+26227777-9182-4471-b9e0-58ba83226849,supplierName-26227777,contactPerson-26227777,email-26227777,phone-26227777,city-26227777,9.4,false,2021-11-02T00:00:00.000Z,createdBy.fm5hd@example.net,2010-07-20T00:00:00.000Z,modifiedBy.fm5hd@example.org
+29538968-daf0-469e-803d-c0fb5724533c,supplierName-29538968,contactPerson-29538968,email-29538968,phone-29538968,city-29538968,1.7,true,2000-04-25T00:00:00.000Z,createdBy.hl4ew@example.net,2007-06-11T00:00:00.000Z,modifiedBy.hl4ew@example.org
+29538969-4a33-4f63-8ef9-931e84dbb0ab,supplierName-29538969,contactPerson-29538969,email-29538969,phone-29538969,city-29538969,1.2,false,2016-02-21T00:00:00.000Z,createdBy.hl4ex@example.org,2014-10-05T00:00:00.000Z,modifiedBy.hl4ex@example.org
+29538970-c4af-4f62-bb61-65d3e9fa6388,supplierName-29538970,contactPerson-29538970,email-29538970,phone-29538970,city-29538970,2.8,true,2014-05-05T00:00:00.000Z,createdBy.hl4ey@example.net,2015-08-25T00:00:00.000Z,modifiedBy.hl4ey@example.net
+29538971-bb93-4756-b82b-be390128cde3,supplierName-29538971,contactPerson-29538971,email-29538971,phone-29538971,city-29538971,8.7,false,2007-09-12T00:00:00.000Z,createdBy.hl4ez@example.net,2021-01-10T00:00:00.000Z,modifiedBy.hl4ez@example.org
