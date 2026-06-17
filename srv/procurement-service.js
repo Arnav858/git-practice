@@ -517,7 +517,7 @@ this.after('READ', 'PurchaseOrders', (results) => {
 this.after('READ', 'Products', (products) => {
  
     const rows = Array.isArray(products) ? products : [products];
- 
+ //hello
     rows.forEach(p => {
         if (p.stock < p.minStock) {
             p.stockCriticality = 1;
